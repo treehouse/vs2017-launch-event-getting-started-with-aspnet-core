@@ -21,4 +21,4 @@ Want to learn more about ASP.NET Core? Check out my Treehouse workshop [Getting 
 
 Register for this session at [https://mva.microsoft.com/liveevents/visual-studio-2017-launch-and-20th-anniversary-event-web-development](https://mva.microsoft.com/liveevents/visual-studio-2017-launch-and-20th-anniversary-event-web-development)
 
-See [launch.visualstudio.com](launch.visualstudio.com) for more information about the Visual Studio 2017 Launch Event.
+See [launch.visualstudio.com](https://launch.visualstudio.com/) for more information about the Visual Studio 2017 Launch Event.
