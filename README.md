@@ -15,7 +15,7 @@ In this module, we'll create a simple app using both the .NET Core command-line 
 
 __Code for all of the demos shown in this module will be made available on 3/8.__
 
-Want to learn more about ASP.NET Core? Check out my Treehouse workshop [Getting Started with ASP.NET Core](https://teamtreehouse.com/library/getting-started-with-aspnet-core) (available only to Pro subscribers).
+Want to learn more about ASP.NET Core? Check out the Treehouse workshop [Getting Started with ASP.NET Core](https://teamtreehouse.com/library/getting-started-with-aspnet-core) (available only to Pro subscribers) from teacher James Churchill.
 
 ### Register Now
 
